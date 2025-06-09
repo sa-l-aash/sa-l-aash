@@ -4,7 +4,6 @@
 - 👌You can reach me @
 -  Email - salaashkaelo@gmail.com
 -  Medium - https://medium.com/@salaashkaelo
--  LinkedIn -
--  
+  
 
 
