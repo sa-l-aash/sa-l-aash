@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sa-l-aash&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 ---
-> *“Code with purpose, debug with patience, and deploy with confidence.”*
+> *“ Code with purpose, debug with patience, and deploy with confidence.”*
 
 
 
