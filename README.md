@@ -13,7 +13,7 @@
 ---
 
 ## 📫 Reach Me
-- 📧 Email: salaashkaelo@gmail.com  
+- 📧 Email me at salaashkaelo@gmail.com  
 - ✍️ Medium: [@salaashkaelo](https://medium.com/@salaashkaelo)  
 
 
