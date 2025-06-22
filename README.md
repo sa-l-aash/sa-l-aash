@@ -15,7 +15,7 @@
 ## 📫 Reach Me
 - 📧 Email: salaashkaelo@gmail.com
 - ✍️ Medium: [@salaashkaelo](https://medium.com/@salaashkaelo)
-- 🧑‍💼 LinkedIn: (https://www.linkedin.com/in/andrew-salaash-539245365/)
+- 🧑‍💼 LinkedIn: [@salaashkaelo](https://www.linkedin.com/in/andrew-salaash-539245365/)
 
 
 ---
