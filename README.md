@@ -6,12 +6,6 @@
 
 ---
 
-## 🚀 Tech Stack
-- 🧠 Languages: `Kotlin`, `Dart`, `JavaScript`, `React`
-- 💻 Frameworks & Tools: `Flutter`, `Android Studio`, `Firebase`, `Git`, `VS Code`
-
----
-
 ## 📫 Reach Me
 - 📧 Email: salaashkaelo@gmail.com
 - ✍️ Medium: [@salaashkaelo](https://medium.com/@salaashkaelo)
@@ -20,16 +14,8 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sa-l-aash&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-
----
-
-
-*“ Code with purpose, debug with patience, and deploy with confidence.”*
+*“Without commitment you will never start but without consistency you will never finish.”*
 
 
 
